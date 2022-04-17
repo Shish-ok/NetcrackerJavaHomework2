@@ -12,7 +12,8 @@ Ex14 (Matrix) — Write a program that reads a two-dimensional array of integers
 
 16 3 2 13
 
-5 10 11 8 
+5 10 11 8
+
 9 6 7 12
 
 4 15 14 1
