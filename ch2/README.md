@@ -1,4 +1,4 @@
-### Здесь лежат задачи по второй главе Хорстмана:
+### Задачи по второй главе Хорстмана:
 
 ex5 (Point) — Implement an immutable class Point that describes a point in the plane. Provide a constructor to set it to a specific point, a no-arg constructor to set it to 
 the origin, and methods getX, getY, translate, and scale. The translatemethod moves the point by a given amount in x- and y-direction. The scale method scales both 
